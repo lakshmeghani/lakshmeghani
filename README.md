@@ -42,7 +42,7 @@ Backend & Cloud Developer. I treat architecture as the real product — code is 
 - <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch Linux-OS-1793D1?style=flat&logo=archlinux&logoColor=white" width=160></a>
 - <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-Version Control-F03C2E?style=flat&logo=git&logoColor=white" width=190></a>
 
-### Currently Learning
+### Currently Exploring
 - <a href="https://www.keycloak.org/"><img src="https://img.shields.io/badge/Keycloak-Authentication-4D4D4D?style=flat&logo=keycloak&logoColor=white" width=220></a>
 - <a href="https://docs.celeryq.dev/en/stable/"><img src="https://img.shields.io/badge/Celery-Task Queue-37814A?style=flat&logo=celery&logoColor=white" width=190></a>
 - <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/RabbitMQ-Message Broker-FF6600?style=flat&logo=rabbitmq&logoColor=white" width=220></a>
@@ -55,4 +55,4 @@ Backend & Cloud Developer. I treat architecture as the real product — code is 
 ---
 <!-- Optional: GitHub stats card -->
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=lakshmeghani&show_icons=true&theme=dark" center>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lakshmeghani&custom_title=Laksh%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=lakshmeghani&custom_title=Laksh%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=algolia)
